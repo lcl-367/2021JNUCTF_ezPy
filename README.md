@@ -1,13 +1,13 @@
 - **题目名称：** ezPy
 - **题目类型：** WEB
-- **题目难度：**容易
+- **题目难度：** 容易
 - **出题人：** ABU
 - **考点：**
 
 1. python flask ssti模板注入
 
-- **描述：**直接注就完了
-- **flag：**flag{Pyth0n_1s_1mp0rtant!!!!!}
+- **描述：** 直接注就完了
+- **flag：** flag{Pyth0n_1s_1mp0rtant!!!!!}
 - **Writeup：** 
 
 payload如下
