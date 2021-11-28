@@ -2,7 +2,7 @@ version: "2"
 services:
   challenge:
     build: .
-    image: base_web_supervisor_python_36_example
+    image: ez_Py
     ports:
       - "10800:8080"
     environment:
